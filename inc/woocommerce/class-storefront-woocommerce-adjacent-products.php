@@ -80,6 +80,7 @@ if ( ! class_exists( 'Storefront_WooCommerce_Adjacent_Products' ) ) :
 			global $post;
 
 			$product = false;
+
 			$this->current_product = $post->ID;
 
 			// Try to get a valid product via `get_adjacent_post()`.
@@ -163,7 +164,6 @@ if ( ! class_exists( 'Storefront_WooCommerce_Adjacent_Products' ) ) :
 				'visibility' => 'catalog',
 				'exclude'    => array( $post->ID ),
 				'orderby'    => 'date',
-				'status'     => 'publish'
 			);
 
 			if ( ! $this->previous ) {

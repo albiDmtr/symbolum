@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: hu\n"
+
+#. Text in function
+#: symbolum/header.php:344
+msgid "About"
+msgstr "Rólam"
+
+#. Text in function
+#: symbolum/header.php:344
+msgid "Stories"
+msgstr "Bejegyzések"
+
+#. Text in function
+#: symbolum/header.php:344
+msgid "Symbols"
+msgstr "Szimbólumok"
+
+#. Text in function
+#: symbolum/header.php:131
+msgid "#main-menu li {}"
+msgstr "#main-menu li { display: inline; padding:3px; padding-top: 13px; padding-bottom: 13px; font-size: 16px; color: rgb(200,168,88); border-left: solid 1px rgb(200,168,88); height: 65px; transition: 0.3s; line-height: initial; transition-delay:0.2s;}"
+
+#. Text in function
+#: symbolum/header.php:344
+msgid "Written by Piroska Molnar"
+msgstr "Írta: Molnár Piroska"
+
+#. Text in function
+#: symbolum/single.php:33
+msgid "More stories"
+msgstr "A többi bejegyzés"
+
+#. Text in function
+#: symbolum/page-stories.php:16
+msgid "<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v7.0&appId=705924279973468&autoLogAppEvents=1" nonce="rdgQjxju"></script>"
+msgstr "<script async defer crossorigin="anonymous" src="https://connect.facebook.net/hu_HU/sdk.js#xfbml=1&version=v7.0&appId=705924279973468&autoLogAppEvents=1" nonce="rdgQjxju"></script>"
+
+#. Text in function
+#: symbolum/page-stories.php:57
+msgid "Continue reading"
+msgstr "Tovább"
+
+#. Text in function
+#: symbolum/page-stories.php:71
+msgid "Stories posted at"
+msgstr "Archívum"
+
+#. Text in function
+#: symbolum/page-stories.php:77
+msgid "Write me:"
+msgstr "Írjon nekem:"
+
+#. Text in function
+#: symbolum/footer.php:21
+msgid "Symbolum.art"
+msgstr "Symbolum.hu"
+
+#. Text in function
+#: symbolum/footer.php:21
+msgid "Piroska Molnar"
+msgstr "Molnár Piroska"
+
+#. Text in function
+#: symbolum/footer.php:21
+msgid "message@symbolum.art"
+msgstr "uzenet@symbolum.hu"
+

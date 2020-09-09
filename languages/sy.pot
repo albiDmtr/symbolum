@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: symbolum/header.php:344
+msgid "About"
+msgstr ""
+
+#. Text in function
+#: symbolum/header.php:344
+msgid "Stories"
+msgstr ""
+
+#. Text in function
+#: symbolum/header.php:344
+msgid "Symbols"
+msgstr ""
+
+#. Text in function
+#: symbolum/header.php:344
+msgid "#main-menu li {}"
+msgstr ""
+
+#. Text in function
+#: symbolum/single.php:23
+msgid "Written by Piroska Molnar"
+msgstr ""
+
+#. Text in function
+#: symbolum/single.php:33
+msgid "More stories"
+msgstr ""
+
+#. Text in function
+#: symbolum/page-stories.php:16
+msgid "<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v7.0&appId=705924279973468&autoLogAppEvents=1" nonce="rdgQjxju"></script>"
+msgstr ""
+
+#. Text in function
+#: symbolum/page-stories.php:57
+msgid "Continue reading"
+msgstr ""
+
+#. Text in function
+#: symbolum/page-stories.php:71
+msgid "Stories posted at"
+msgstr ""
+
+#. Text in function
+#: symbolum/page-stories.php:77
+msgid "Write me:"
+msgstr ""
+
+#. Text in function
+#: symbolum/footer.php:21
+msgid "Symbolum.art"
+msgstr ""
+
+#. Text in function
+#: symbolum/footer.php:21
+msgid "Piroska Molnar"
+msgstr ""
+
+#. Text in function
+#: symbolum/footer.php:21
+msgid "message@symbolum.art"
+msgstr ""
